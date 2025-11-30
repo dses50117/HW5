@@ -111,9 +111,7 @@ def main():
                 else:
                     st.error("This text is likely AI-generated.")
 
-                # 額外顯示模型原始輸出（給你 debug / 寫論文）
-                with st.expander("Model raw output"):
-                    st.json(result)
+
 
             else:
                 st.warning("Please enter some text to analyze.")

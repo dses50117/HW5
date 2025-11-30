@@ -5,6 +5,13 @@ This document explains how the AI Content Detector application was built, using 
 The CRISP-DM model provides a structured approach for data science projects. It consists of 6 phases. Below, we describe what was done in each phase for this specific project.
 
 ---
+# Project Plan: Building the AI Detector with CRISP-DM
+
+This document explains how the AI Content Detector application was built, using the **Cross-Industry Standard Process for Data Mining (CRISP-DM)** as a guide.
+
+The CRISP-DM model provides a structured approach for data science projects. It consists of 6 phases. Below, we describe what was done in each phase for this specific project.
+
+---
 
 ### Phase 1: Business Understanding
 

@@ -110,8 +110,6 @@ def main():
 
                     human_score = human_prob * 100
 
-                    time.sleep(0.5)  # 小延遲增加「分析感」
-
                 st.subheader("Analysis Result")
 
                 # Progress bar 顯示「Human Content %」
